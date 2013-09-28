@@ -66,6 +66,7 @@
     <ClCompile Include="H_2_1.cpp" />
     <ClCompile Include="H_2_3.cpp" />
     <ClCompile Include="H_2_5.cpp" />
+    <ClCompile Include="H_3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
